@@ -1,0 +1,11 @@
+
+}
+
+h1 {
+  color: var(--primary-color);
+}
+
+h3 {
+  color: var(--secondary-color);
+  box-shadow: var(--box-shadow);
+}
